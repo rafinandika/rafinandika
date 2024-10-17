@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafinandika&label=Profile%20views&color=0e75b6&style=flat" alt="rafinandika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafinandika" alt="rafinandika" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafinandika" alt="rafinandika" /></a> </p> -->
 
 - 🔭 I’m currently working on [PEDe PPD Provinsi Bengkulu](https://pede-ppd.bengkuluprov.go.id/)
 
