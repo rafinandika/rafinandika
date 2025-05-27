@@ -14,4 +14,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,vite,react,flutter,laravel,bootstrap,tailwind,express,graphql,nextjs,nodejs,docker,nginx,aws,prisma)](https://skillicons.dev)
 
-![Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafinandika&show_icons=true&theme=transparent&hide=prs,) ![Rafin's GitHub lang](https://github-readme-stats.vercel.app/api/top-langs?username=rafinandika&show_icons=true&locale=en&layout=compact)
+![Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafinandika&show_icons=true&theme=transparent&hide=prs,) ![Rafin's GitHub lang](https://github-readme-stats.vercel.app/api/top-langs?username=rafinandika&show_icons=true&locale=en&layout=compact&theme=transparent)
